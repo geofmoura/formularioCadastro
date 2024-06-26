@@ -1,2 +1,1 @@
-# formularioCadastro
-Formulario de Cadastro responsivo 
+# Formulario de Cadastro (responsivo)
