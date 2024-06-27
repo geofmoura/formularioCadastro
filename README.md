@@ -9,3 +9,16 @@
 ### HTML5: Utilizado para a estruturação do formulário e inclusão dos elementos.
 ### CSS3: Utilizado para a estilização e responsividade do formulário, utilizando técnicas como media queries.
 ### JavaScript: Utilizado para adicionar funcionalidade de alternância de imagens no formulário.
+## Como Utilizar
+### Clone o repositório:
+#### git clone https://github.com/geofmoura/formularioCadastro.git
+### Navegue até o diretório do projeto:
+#### cd geofmoura
+### Abra o arquivo index.html em seu navegador preferido.
+## Estrutura do Projeto:
+#### index.html: Contém a estrutura HTML do formulário.
+#### styles.css: Contém as regras de estilo para o formulário.
+#### scripts.js: Contém o código JavaScript para alternar as imagens.
+## Contribuições
+### Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar uma solicitação pull.
+
